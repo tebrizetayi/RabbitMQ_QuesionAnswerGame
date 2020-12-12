@@ -1,0 +1,4 @@
+1.Client sends file
+2.Client gets ack or nack 
+3.Server send ack  that , the message is being processed
+4.Server send ack that , the message is processed.

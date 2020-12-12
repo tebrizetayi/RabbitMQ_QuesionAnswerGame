@@ -1,0 +1,486 @@
+1. How many days do we have in a week?
+
+Answer: Seven
+
+2. How many days are there in a year?
+
+Answer: 365 (not a leap year)
+
+3. How many colors are there in a rainbow?
+
+Answer: 7
+
+4. Which animal is known as the ‘Ship of the Desert?’
+
+Answer: Camel
+
+5. How many letters are there in the English alphabet?
+
+Answer: 26
+
+6. How many consonants are there in the English alphabet?
+
+Answer: 21
+
+7. How many sides are there in a triangle?
+
+Answer: Three
+
+8. In which direction does the sun rise?
+
+Answer: East
+
+9. What do you call a type of shape that has five sides?
+
+Answer: Pentagon
+
+10. Which month of the year has the least number of days?
+
+Answer: February
+
+11. What is a baby frog called?
+
+Answer: Tadpole
+
+12. Where does a pig live?
+
+Answer: Sty
+
+13. We smell with our
+
+Answer: Nose
+
+14. Which is the largest mammal?
+
+Answer: Blue Whale
+
+15. What do you call the person who brings a letter to your home from post office?
+
+Answer: Postman
+16. What type of gas do plants absorb?
+
+Answer: Carbon dioxide
+
+17. Which place is known as the roof of the world?
+
+Answer: Tibet
+
+18. Who was the first prime minister of India?
+
+Answer: Pandit Jawaharlal Nehru
+
+19. How many years are there in one Millenium?
+
+Answer: 1,000 years
+
+20. Who was the first man to walk on the moon?
+
+Answer: Neil Armstrong
+
+21. How many primary colors are there?
+
+Answer: Three (red, yellow, blue)
+
+22. Which way is anti-clockwise, left or right?
+
+Answer: Left
+
+23. How many equal sides does an isosceles triangle have?
+
+Answer: 2
+
+24. How many days are there in the month of February in a leap year?
+
+Answer: 29 days
+
+25. What do you call a house made of ice?
+
+Answer: Igloo
+
+26. Which is the longest river on the earth?
+
+Answer: Nile
+
+27. Which is the principal source of energy for earth?
+
+Answer: Sun
+
+28. Which is the smallest continent?
+
+Answer: Australia
+
+29. Which is the densest jungle in the world?
+
+Answer: The Amazon rainforest
+
+30. Which is the coldest location in the earth?
+
+Answer: East Antarctica
+
+31. What is the standard taste of the water?
+
+Answer: Water is tasteless
+
+32. Which is the tallest mountain in the world?
+
+Answer: Mount Everest
+
+33. Which country is called the land of rising sun?
+
+Answer: Japan
+
+34. Which is the fastest animal on the land?
+
+Answer: Cheetah
+
+35. Who is the inventor of electricity?
+
+Answer: Benjamin Franklin
+
+36. Which continent is known as ‘Dark’ continent?
+
+Answer: Africa
+
+37. Which planet is known as the Red Planet?
+
+Answer: Mars
+
+38. Which is the tallest animal on the earth?
+
+Answer: Giraffe
+
+39. Which is the most sensitive organ in our body?
+
+Answer: Skin
+
+40. Which two parts of the body continue to grow for your entire life?
+
+Answer: Nose and Ears
+
+41. The largest ‘Democracy’ in the world?
+
+Answer: India
+
+42. Which is the largest ocean in the world?
+
+Answer: Pacific Ocean
+
+43. Which is the instrument used to measure Blood pressure?
+
+Answer: Sphygmomanometer
+
+44. How many years are there in a century?
+
+Answer: One Hundred
+
+45. Which is the largest country in the world?
+
+Answer: Russia (By area)
+
+46. Caterpillars turn into butterflies.
+
+Answer: True
+
+47. Adults have a total of 34 teeth.
+
+Answer: False
+
+48. There are 30 days in May.
+
+Answer: False
+
+49. New York is the capital of America.
+
+Answer: False
+
+50. Cinderella’s carriage turns into a potato.
+
+Answer: False
+
+51. Half of 250 is 125.
+
+Answer: True
+
+52. An ostrich’s eye is bigger than its brain.
+
+Answer: True
+
+53. A jellyfish is 95% water.
+
+Answer: True
+
+54. Plants give us oxygen.
+
+Answer: True
+
+55. Bubble gum contains rubber.
+
+Answer: True
+
+56. 8 o’clock in the evening is written as 8 am.
+
+Answer: False
+
+57. Bacon was part of the first meal eaten on the Moon.
+
+Answer: True
+
+58. Spinach originally comes from Iran.
+
+Answer: True
+
+59. Watermelons are originally from Australia.
+
+Answer: False (originally from West Africa)
+
+60. Black Forest cake has the same colors as the traditional dress of the inhabitants of the Black Forest in Germany.
+
+Answer: True
+
+61. There are over 330 different dog breeds in the world.
+
+Answer: True
+
+62. Thunderstorms have particular sound frequencies that can hurt a dog’s ears.
+
+Answer: True
+
+63. Adult dogs and adult humans have the same number of teeth.
+
+Answer: False
+
+64. The deadliest earthquake of 2017 took place in Iran and Iraq.
+
+Answer: True
+
+65. Electrons are larger than molecules.
+
+Answer: False
+
+66. An ostrich’s eye is bigger than its brain. True or False?
+
+Answer: True
+
+67. Chameleon’s have extremely long tongues, sometimes as long as their bodies?
+
+Answer: True
+
+68. Theater, Ticket, Movie, School
+
+Answer: School
+
+69. Brinjal, Potatoes, Cabbage, Chocolate
+
+Answer: Chocolate
+
+70. Medicine, Injection, Ointment, Laptop
+
+Answer: Laptop
+
+71. Breakfast, Dinner, Lunch, Photograph
+
+Answer: Photograph
+
+72. Television, History, Science, Math
+
+Answer: Television
+
+73. Knife, Poison, Gun, Books
+
+Answer: Books
+
+74. Paper, Poster, Book, Rug
+
+Answer: Rug
+
+75. Flower, Tree, Sock, Grass
+
+Answer: Sock
+
+76. Earrings, Necklace, Wood, Bracelet
+
+Answer: Wood
+
+77. Sarah, Rita, Fiona, Matthew
+
+Answer: Matthew
+
+78. How many cards are there in a complete pack of cards?
+
+A. 20
+B. 32
+C. 40
+D. 52
+
+Answer: 52
+
+79. What is the most popular sport throughout the world?
+
+A. Soccer
+B. Cricket
+C. Volleyball
+D. Football
+
+Answer: Soccer
+
+80. What is the hottest continent on Earth?
+
+A. Asia
+B. Europe
+C. Africa
+D. South America
+
+Answer: Africa
+
+81. How many planets are there in our solar system?
+
+A. 7
+B. 8
+C. 9
+D. 5
+
+Answer: 8
+
+82. What type of tree do dates grow on?
+
+A. Coconut
+B. Pine
+C. Palm
+D. Birch
+
+Answer: Palm
+
+83. What is the 15th letter of the English alphabet?
+
+A. F
+B. I
+C. M
+D. O
+
+Answer: O
+
+84. Can you name the country from where Parmesan cheese comes?
+
+A. India
+B. China
+C. Italy
+D. France
+
+Answer: Italy
+
+85. Which was the occupation or job of the following famous people: Leonardo da Vinci, Pablo Picasso, Vincent Van Gogh?
+
+A. Musician
+B. Painter
+C. Carpenter
+D. Dancers
+
+Answer: Painter
+
+86. Which one is not amongst the Seven Wonders of the World?
+A. Mecca Madina
+B. Statue of Liberty
+C. Taj Mahal
+D. The Great Wall of China
+
+Answer: Mecca Madina
+
+87. Which of the following birds is known for its intelligence?
+A. Owl
+B. Kingfisher
+C. Sparrow
+D. Crow
+
+Answer: Owl
+
+88. Which gas is most abundant in the earth’s atmosphere?
+
+Answer: Nitrogen
+
+89. Which is the continent with the most number of countries?
+
+Answer: Africa
+
+90. How many people are there in the world?
+
+Answer: Over 7 billion
+
+91. How many strings does a violin have?
+
+Answer: Four
+
+92. Which is the most common non-contagious disease in the world?
+
+Answer: Tooth Decay
+
+93. Global warming is caused by the excess of which type of gas?
+
+Answer: Carbon dioxide
+
+94. What is the name of the biggest rain forest in the world?
+
+Answer: The Amazon
+
+95. What makes up (approx.) 80% of our brain’s volume?
+
+Answer: Water
+
+96. Which African nation is famous for chocolate?
+
+Answer: Ghana
+
+97. Which instrument is used for measuring wind speed?
+
+Answer: Anemometer
+
+98. Which is the smallest continent in the world?
+
+Answer: Australia
+
+99. What covers approximately 71% of the Earth’s surface: Land or water?
+
+Answer: Water
+
+100. What is the top color in a rainbow?
+
+Answer: Red
+
+101. Which country is home to the kangaroo?
+
+Answer: Australia
+
+102. Which language is used by the computer to process data?
+
+Answer: Binary language
+
+103. ‘Stars and Stripes’ is the nickname of the flag of which country?
+
+Answer: United States of America
+
+104. Which country gifted The Statue of Liberty to the United States?
+
+Answer: France
+
+105. Who painted the Mona Lisa?
+
+Answer: Leonardo da Vinci
+
+106. What is the name of the Greek God of music?
+
+Answer: Apollo
+
+107. Who invented the telephone?
+
+Answer: Alexander Graham Bell
+
+108. What does the “SIM” in the SIM card stand for?
+
+Answer: Subscriber Identity Module
+
+109. Which is the first element on the periodic table of elements?
+
+Answer: Hydrogen
+
+110. Which is the tallest waterfall in the world?
+
+Answer: Angel Falls
