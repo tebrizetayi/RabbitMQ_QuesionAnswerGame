@@ -2,6 +2,7 @@ package utility
 
 import (
 	"bufio"
+	"fmt"
 	"log"
 	"math/rand"
 	"os"
@@ -50,8 +51,9 @@ func FailOnError(err error, msg string) {
 	}
 }
 
-func PickRandomKey(dict map[string]string) interface{} {
+func PickRandomKey(dict map[string]string) string {
 
 	keys := reflect.ValueOf(dict).MapKeys()
-	return keys[rand.Intn(len(keys))]
+	return fmt.Sprintf("%v", keys[rand.Intn(len(keys))])
+
 }

@@ -26,15 +26,13 @@ func main() {
 	failOnError(err, "Failed to open a channel")
 	defer ch.Close()
 
-	ch.Confirm(false)
-
 	q, err := ch.QueueDeclare(
-		utility.QuestionQ, // name
-		false,             // durable
-		false,             // delete when unused
-		false,             // exclusive
-		false,             // no-wait
-		nil,               // arguments
+		"",    // name
+		false, // durable
+		false, // delete when unused
+		true,  // exclusive
+		false, // no-wait
+		nil,   // arguments
 	)
 	failOnError(err, "Failed to declare a queue")
 
@@ -45,13 +43,16 @@ func main() {
 			false, // global
 		)*/
 	//It is a listener, in order to get confirmation message , whether message is received by message broker
-	confirm := ch.NotifyPublish(make(chan amqp.Confirmation))
+	//confirm := ch.NotifyPublish(make(chan amqp.Confirmation))
 
 	//Correlation Id is used in order to filter the incoming messages.
 	corrID := rand.Intn(time.Now().Nanosecond())
+
+	var question string
+
 	go func() {
 		for {
-			body := utility.PickRandomKey(questions)
+			question = utility.PickRandomKey(questions)
 			err = ch.Publish(
 				"",               // exchange
 				utility.AnswersQ, // routing key
@@ -59,20 +60,13 @@ func main() {
 				false,            // immediate
 				amqp.Publishing{
 					ContentType:   "text/plain",
-					Body:          []byte(fmt.Sprintf("%v", body)),
+					Body:          []byte(fmt.Sprintf("%v", question)),
 					CorrelationId: strconv.Itoa(corrID),
 					ReplyTo:       q.Name,
 				})
 			failOnError(err, "Failed to publish a message")
-
-			//Waiting for the response whether message is received by Message Broker
-			confirmed := <-confirm
-			if confirmed.Ack {
-				log.Println(body)
-			} else {
-				log.Println("Message could not sent to broker failed", body)
-			}
-			time.Sleep(10 * time.Second)
+			log.Println(question)
+			time.Sleep(20 * time.Second)
 		}
 	}()
 
@@ -87,9 +81,11 @@ func main() {
 
 	for msg := range msgs {
 		//Message Filtering
-		//log.Println(msg.CorrelationId, " ", strconv.Itoa(int(corrID)), string(msg.Body))
 		if msg.CorrelationId == strconv.Itoa(int(corrID)) {
 			log.Println(string(msg.Body))
+			if string(msg.Body) == questions[question] {
+				log.Println("Right")
+			}
 			msg.Ack(false)
 		}
 	}
